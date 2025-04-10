@@ -72,9 +72,13 @@ These tests require you to be logged into a Wikipedia account. Instead of loggin
 
 ## Run the tests
 
-Run all tests using:
+Run all tests headlessly using:
 ```bash
 npx playwright test
+```
+Or, run all tests in UI mode:
+```bash
+npx playwright test --ui
 ```
 Playwright will generate a `storageState.json` file as it runs all the test cases.
 
