@@ -19,7 +19,7 @@ Before you begin, ensure you have the following installed:
 * [Node.js](https://nodejs.org/) (includes `npm`)
 * [Git](https://git-scm.com/) (for cloning the repository)
 
-Also, make sure you have a valid [Wikipedia account](https://en.wikipedia.org/w/index.php?title=Special:CreateAccount) for login-based tests.
+Also, make sure you have a valid [Wikipedia account](https://en.wikipedia.org/w/index.php?title=Special:CreateAccount) as these are login-based tests.
 
 ## Setup Instructions
 
